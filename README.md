@@ -26,6 +26,7 @@ PUT /categorias/{id} - Atualiza as informações de uma categoria existente.
 DELETE /categorias/{id} - Remove uma categoria do catálogo.
 
 Tecnologias Utilizadas
+
 .NET Core: Framework principal para construção da API.
 Entity Framework Core: Para manipulação do banco de dados.
 MySql: Banco de dados utilizado para persistência dos dados (pode ser facilmente substituído por outros SGBDs).
